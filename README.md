@@ -1,6 +1,6 @@
 # ScaleFL: Resource-Adaptive Federated Learning with Heterogeneous Clients
 
-Code for EENet: Learning to Early Exit for Adaptive Inference
+Code for ScaleFL: Resource-Adaptive Federated Learning with Heterogeneous Clients
 
 ## Introduction
 
