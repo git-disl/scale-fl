@@ -1,6 +1,8 @@
 # ScaleFL: Resource-Adaptive Federated Learning with Heterogeneous Clients
 
-Code for ScaleFL: Resource-Adaptive Federated Learning with Heterogeneous Clients
+Code for the following paper:
+
+Fatih Ilhan, Gong Su and Ling Liu, "ScaleFL: Resource-Adaptive Federated Learning with Heterogeneous Clients," IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, Canada, Jun. 18-22, 2023.
 
 ## Introduction
 
