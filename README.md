@@ -31,3 +31,6 @@ python main.py --data-root {data-root} --data ag_news --arch bert_4 --use-valid 
 ### Parameters
 
 All training/inference/model parameters are controlled from ``config.py``.
+
+### API
+Sathvik Karatattu Padmanabha @ Georgia Tech has developed an API for ScaleFL. Here is the link: https://github.com/SathvikKP/ScaleFL_API
